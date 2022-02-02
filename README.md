@@ -1,10 +1,10 @@
 # ***Saber-test-stats*** 🏠
-generates
-*This program generates a series of basic reports of the Pruebas Saber 11 in Cali Colombia constrasting 2020 and 2021 *
+
+This program generates a series of basic reports of the Pruebas Saber 11 in Cali Colombia constrasting 2020 and 2021 
 
 ## ***Presentation*** 📷
 
-*Presentation final results can be found [here](https://github.com/danielaolartebo/saber-test-stats/tree/master/Presentaci%C3%B3n).*
+Presentation final results can be found [here](https://github.com/danielaolartebo/saber-test-stats/tree/master/Presentaci%C3%B3n).
 
 ## ***Authors*** ✒️
 
