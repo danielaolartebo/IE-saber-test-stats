@@ -13,7 +13,7 @@ Presentation final results can be found [here](https://github.com/danielaolarteb
   <a href="https://github.com/danielaolartebo" target="_blank"> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53228651?v=4&h=60&w=60&fit=cover&mask=circle"></a>
   <a href="https://github.com/GabrielSB19" target="_blank"> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53228651?v=4&h=60&w=60&fit=cover&mask=circle"></a>
   <a href="https://github.com/CamiloCJ09" target="_blank"> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53228651?v=4&h=60&w=60&fit=cover&mask=circle"></a>
-  <a href="https://github.com/Johan794" target="_blank"> <img src="https://avatars.githubusercontent.com/u/69874418?v=4"></a>
+  <a href="https://github.com/Johan794" target="_blank"> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/69874418?v=4&h=60&w=60&fit=cover&mask=circle"></a>
 </p>
 
 ---
